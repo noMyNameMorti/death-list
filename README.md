@@ -12,16 +12,16 @@ DL - это сборка модов для майнкрафт.
 <h1>Открытость и безплатность.</h1>
 Вы вольны сделать с данной сборки что угодно. Взять как за основу и создать нечто свое с другими индустриальными модами, и так далее. Или Вы можете добавить свои моды, что нравятся вам. В общем и целом - берите и делайте что вам угодно. 
 <h1>Перевод модов.</h1>
-Моды ,что не переведены\ждут перевода на rus:
+<p>Моды ,что не переведены\ждут перевода на rus: </p>
 <li>
-  <ul>Upgraded Netherite</ul>
-  <ul>Paragliders</ul>
-  <ul>EquipmentCompare</ul>
-  <ul>End Aspecected</ul>
-  <ul>Born in Chaos</ul>
-  <ul>Stalwart dungeons</ul>
-  <ul>Catalysm</ul>
-  <ul>Darker depths</ul>
-  <ul>Mystic's Biomes</ul>
-  <ul>iron chest/furnaces</ul>
+  <ul> Upgraded Netherite</ul>
+  <ul> Paragliders</ul>
+  <ul> EquipmentCompare</ul>
+  <ul> End Aspecected</ul>
+  <ul> Born in Chaos</ul>
+  <ul> Stalwart dungeons</ul>
+  <ul> Catalysm</ul>
+  <ul> Darker depths</ul>
+  <ul> Mystic's Biomes</ul>
+  <ul> iron chest/furnaces</ul>
 </li>
